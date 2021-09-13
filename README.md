@@ -16,6 +16,7 @@
 
 ### Les réseaux sociaux sont mes amis
 * https://www.youtube.com/watch?v=HLz5SdAoJmg
+* https://www.linkedin.com/jobs/view/2547039896/
 * https://www.facebook.com/groups/trouveuntech/
 * https://www.facebook.com/groups/1580693735579220/
 * https://www.facebook.com/groups/stages.en.startup
@@ -49,5 +50,9 @@
 * https://memo.pole-emploi.fr/
 * https://mailtrack.io/en/
 * https://hunter.io/
+* https://www.youtube.com/watch?v=Gq2-w5t1Cfc
+* https://pages.github.com/
+
+
 
 
