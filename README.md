@@ -35,6 +35,8 @@
 * https://www.onlinecv.fr/
 * https://enhancv.com/
 * https://www.canva.com/
+* https://slidesgo.com/fr/cv
+* 
 
 ### J'ai rien à montrer | Je sais rien faire ...
 * https://www.testdome.com/
