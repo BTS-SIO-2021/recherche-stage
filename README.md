@@ -45,6 +45,7 @@
 * https://dev.to/t/challenge
 * https://skillvalue.com/fr/quiz/
 * https://www.bloomr-impulse.com/blog/liste-46-soft-skills
+* https://www.root-me.org/
 
 ## J'ai envoyé un mail ... et j'ai pas de réponse (ouin)
 
